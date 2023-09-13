@@ -14,10 +14,10 @@
                 FrontEnd Developer 
             </strong>
         </p>
-        <ul>
-            <li>🌱 <b>I used to study Software Engineering.</li>
-            <li>😄 <b>Fun fact</b>: I loves Codeing(💻 maybe xD ), Traveling(🌍), and Photography(📷).</li>
-        </ul>
+        <div>
+            <p>🌱 <b>I used to study Software Engineering.</p>
+            <p>😄 <b>Fun fact</b>: I loves Codeing(💻 maybe xD ), Traveling(🌍), and Photography(📷).</p>
+        </div>
     </div>
 </div>
 
