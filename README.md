@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-        <img src="https://haycafe.vn/wp-content/uploads/2021/11/Tai-hinh-anh-dong-de-thuong-meo-luoi-bieng-lan-lon.gif" alt="lazy" height="200">
+        <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="lazy" height="200">
     </div>
     <div align=center>
         <p>
