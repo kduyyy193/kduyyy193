@@ -11,7 +11,7 @@
         <br>
         <p>
             <strong>
-                FrontEnd Developer 
+                Skilled Developer xD
             </strong>
         </p>
         <div>
