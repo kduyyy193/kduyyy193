@@ -16,7 +16,7 @@
         </p>
         <div>
             <p>🌱 <b>I used to study Software Engineering.</p>
-            <p>😄 <b>Fun fact</b>: I loves Coding(💻), Traveling(🌍), and Photography(📷).</p>
+            <p>😄 <b>Fun fact</b>: I loves Coding(💻), Traveling(🌍) and Photography(📷).</p>
         </div>
     </div>
 </div>
