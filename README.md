@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kduyyy193&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kduyyy193&layout=compact&theme=tokyonight" alt="Top Languages" />
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kduyyy193&layout=compact&theme=tokyonight" alt="Top Languages" />](https://github-readme-stats.vercel.app/api/top-langs/?username=kduyyy193&layout=compact&theme=tokyonight)
 </p>
 
 ------
