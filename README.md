@@ -7,13 +7,10 @@
     <p>
         <strong>Call me K2</strong>
     </p>
-
     <br>
-
     <p>
         <strong>Skilled Developer xD</strong>
     </p>
-
     <div>
         <p>🌱 <b>I used to study Software Engineering.</b></p>
         <p>😄 <b>Fun fact:</b> I love Coding (💻), Traveling (🌍), and Photography (📷).</p>
